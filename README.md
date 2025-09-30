@@ -3,8 +3,15 @@
 ![Project Banner](https://tse4.mm.bing.net/th/id/OIP.zLz1DHN-vH0jUG4pJgIssgHaHa?rs=1&pid=ImgDetMain&o=5&rm=3)
 
 ## 📌 Project Overview
-This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
+Maven Movies is a SQL-based project designed to manage and analyze movie rental data. By creating a structured relational database, the project allows rental businesses to gain actionable insights about movies, customers, and user ratings.
 
+This project demonstrates:
+
+How to organize data efficiently using a relational database schema.
+
+How to analyze rental and rating trends using SQL queries.
+
+Core database concepts including table relationships, many-to-many mappings, and data integrity.
 
 ---
 
