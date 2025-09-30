@@ -38,7 +38,21 @@ This project demonstrates:
 - 📉 Identify inventory gaps and optimize stock levels.
 
 ---
+## Why This Project:
 
+This project is valuable because it helps a rental business:
+
+- Track movies, genres, and customer interactions systematically.
+
+- Analyze popular movies, top actors, and genre trends.
+
+- Make data-driven decisions to optimize movie inventory and marketing.
+
+- Learn practical SQL skills including JOINs, aggregations, filters, and subqueries.
+
+- Including a database schema ensures the data is organized, consistent, and easy to query for insights.
+
+---
 ## 🛠️ Tools & Technologies Used
 - *SQL* – Data extraction, transformation, and querying
 - *MAVENMOVIES Database* – Source of movie rental data
