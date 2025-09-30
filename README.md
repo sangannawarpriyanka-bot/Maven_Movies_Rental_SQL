@@ -5,13 +5,13 @@
 ## 📌 Project Overview
   Maven Movies is a SQL-based project designed to manage and analyze movie rental data. By creating a structured relational database, the project allows rental businesses to gain actionable insights about movies, customers, and user ratings.
 
---This project demonstrates:
+- This project demonstrates:
 
---How to organize data efficiently using a relational database schema.
+- How to organize data efficiently using a relational database schema.
 
---How to analyze rental and rating trends using SQL queries.
+- How to analyze rental and rating trends using SQL queries.
 
---Core database concepts including table relationships, many-to-many mappings, and data integrity.
+- Core database concepts including table relationships, many-to-many mappings, and data integrity.
 
 ---
 
