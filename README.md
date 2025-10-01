@@ -76,7 +76,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](<img width="580" height="297" alt="Screenshot 2025-10-01 145402" src="https://github.com/user-attachments/assets/6d6fdb3b-9aa5-4568-9ba3-595e013b51b8" />
+(<img width="580" height="297" alt="Screenshot 2025-10-01 145402" src="https://github.com/user-attachments/assets/6d6fdb3b-9aa5-4568-9ba3-595e013b51b8" />
 )
 
 
