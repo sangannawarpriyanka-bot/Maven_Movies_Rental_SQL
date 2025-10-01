@@ -84,7 +84,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="211" height="49" alt="image" src="https://github.com/user-attachments/assets/93dfa5be-b642-44db-934a-4f129f4a1e44" />
 
 ### 3. Rental Rate Distribution and Movie Count
-<img width="174" height="62" alt="image" src="https://github.com/user-attachments/assets/d68211df-8b03-48fa-a283-b0470f34edd2" />
+<img width="274" height="92" alt="image" src="https://github.com/user-attachments/assets/d68211df-8b03-48fa-a283-b0470f34edd2" />
 
 ### 4. Most Common Movie Rating
 <img width="185" height="88" alt="image" src="https://github.com/user-attachments/assets/8b248ee6-198d-4d99-88f5-287ceb88d8f9" />
