@@ -81,7 +81,7 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 2. Count of Movies with Rental Rate of $0.99
-<img width="111" height="29" alt="image" src="https://github.com/user-attachments/assets/93dfa5be-b642-44db-934a-4f129f4a1e44" />
+<img width="211" height="49" alt="image" src="https://github.com/user-attachments/assets/93dfa5be-b642-44db-934a-4f129f4a1e44" />
 
 ### 3. Rental Rate Distribution and Movie Count
 <img width="174" height="62" alt="image" src="https://github.com/user-attachments/assets/d68211df-8b03-48fa-a283-b0470f34edd2" />
