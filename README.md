@@ -76,7 +76,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ### 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
 
-![Customer Info](<img width="580" height="297" alt="Screenshot 2025-10-01 145402" src="https://github.com/user-attachments/assets/d8e31fc3-282a-4152-bddd-41a0befc10ae" />
+![Customer Info](![Uploading Screenshot 2025-10-01 145402.png…]
 )
 
 ### 2. Count of Movies with Rental Rate of $0.99
