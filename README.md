@@ -87,7 +87,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="274" height="92" alt="image" src="https://github.com/user-attachments/assets/d68211df-8b03-48fa-a283-b0470f34edd2" />
 
 ### 4. Most Common Movie Rating
-<img width="485" height="100" alt="image" src="https://github.com/user-attachments/assets/8b248ee6-198d-4d99-88f5-287ceb88d8f9" />
+<img width="385" height="100" alt="image" src="https://github.com/user-attachments/assets/8b248ee6-198d-4d99-88f5-287ceb88d8f9" />
 
 ### 5. Most Prevalent Rating per Store
 <img width="161" height="149" alt="image" src="https://github.com/user-attachments/assets/be04423f-995c-4c85-ab65-5a80cb27cf1a" />
